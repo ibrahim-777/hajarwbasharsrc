@@ -1,0 +1,79 @@
+@font-face {
+  font-family: 'dastnevis';
+  font-style: normal;
+  src:url('./font/dastnevis.otf') format('truetype');
+}
+
+* {
+  font-family: "Cairo";
+} 
+
+.body {
+  padding: 0;
+  margin: 0;
+} 
+.dast {
+  font-family: dastnevis;
+  text-align: center;
+}
+#line{
+  border:"solid 5em white" ;
+  background-color: #fff;
+  color:#fff;
+  opacity: 1;
+  z-index: 1;
+  width:wmax;
+margin: 2em 3em;
+}
+.bi{
+  font-size: 5em;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+a:hover{
+  color:#fff
+}
+.name {
+  color:#fff;
+  font-size:15rem;
+}
+.subtitle{
+  color:#921B1F;
+  font-size:5rem;
+}
+.welcome{
+  background-color:#0A5A5B;
+  height:35.7rem;
+  padding-top:5rem
+}
+@media (max-width:600px) {
+  .name {
+    color:#fff;
+    font-size:7rem;
+    padding: 0 10px;
+  }
+  .subtitle{
+    color:#921B1F;
+    font-size:5rem;
+    padding: 0 10px;
+  }
+  .welcome{
+    background-color:#0A5A5B;
+    height:25rem;
+    padding-top:5rem
+  }
+}
+@media (max-width:400px) {
+  .name {
+    color:#fff;
+    font-size:6rem;
+    padding: 0 10px;
+  }
+  .subtitle{
+    color:#921B1F;
+    font-size:4rem;
+    padding: 0 10px;
+  }
+}

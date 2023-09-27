@@ -1,0 +1,53 @@
+.brief{
+    background-color: #921B1F;
+    padding: 4rem 2rem ;
+}
+.Header {
+ border-right:5px solid #fff;
+  padding:2rem 2rem 0 2rem ;
+}
+.topic {
+    color:#fff;
+    font-size: 4rem;
+}
+.description {
+    color:#fff;
+    font-size:1.5rem;
+    margin:3rem 0;
+}
+.showmore{
+    margin: 5rem auto;
+}
+/* @media (max-width:900) {
+    .topic {
+        color:#fff;
+        font-size: 1.2rem;
+    }
+    .description {
+        color:#fff;
+        font-size:1rem;
+        margin:0.2rem 0;
+    }
+    .Header {
+        border-right:2px solid #fff;
+width:900px
+       }
+       .brief{
+        background-color: #921B1F;
+        padding: 15px;
+    }
+} */
+/* @media (max-width:360) {
+    .topic {
+        color:#fff;
+        font-size:25px;
+    }
+    .description {
+        color:#fff;
+        font-size:20px;
+        margin:15px 0;
+    }
+    .Header {
+        border-right:2px solid #fff;
+       }
+} */

@@ -1,0 +1,73 @@
+img {
+    height: 15em
+}
+.activityInfo{
+    margin: 1rem 0;
+}
+.card {
+    padding:0
+}
+#carouselExampleDark{
+    width:20em
+}
+.showmore{
+margin:2em auto;
+width:20em;
+ display:flex;
+justify-content:center ;
+background-color:#921B1F
+}
+.showmore:hover {
+    background-color: #0A5A5B;
+}
+.cell {
+    margin: 0.3em 0 ;
+    color: #0A5A5B;
+}
+.slide {
+    width:29rem ;
+    height: 24rem;
+     padding:1rem;
+     margin:2em 1.5rem;
+     box-shadow:  15px 15px 20px #000;
+     align-content: center;
+    }
+    .topic{
+        color:#921B1F
+    }
+    .info{
+width:34rem;
+margin:3em 1.2rem;
+padding: 1rem
+    }
+    .caption {
+        color:#fff;
+        text-align: center;
+        }
+        .captiondiv {
+            background-color: #0A5A5B;
+            margin: 4rem  0;
+        }
+@media (max-width:600px) {
+    .showmore{
+margin:auto;
+width:15em;
+ display:flex;
+justify-content:center ;
+background-color:#921B1F
+    }
+    .slide {
+        width:300px ;
+        height: 17rem;
+         padding:0.2rem;
+         margin:0.5em 1.5rem;
+         box-shadow:  5px 5px 20px #000;
+         align-content: center;
+        }
+        .topic {
+            text-align: center;
+        }
+        .info {
+    padding: 0 1rem 0  0 ;
+        }
+}

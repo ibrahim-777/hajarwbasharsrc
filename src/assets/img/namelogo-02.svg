@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0a5a5b;
+        font-size: 273.69px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: DastNevis, 'Dast Nevis';
+      }
+
+      .cls-2 {
+        fill: #921b1f;
+        font-size: 191.59px;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(202.15 631.53)"><tspan x="0" y="0">ةنج عورشم</tspan></text>
+  <text class="cls-1" transform="translate(176.91 374.24)"><tspan x="0" y="0">رشبو رجح</tspan></text>
+</svg>

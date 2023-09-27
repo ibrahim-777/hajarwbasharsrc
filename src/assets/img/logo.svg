@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M173.98,540.89l97.15,96.62,53.68-53.97,10.8,10.74-53.68,53.97,43.17,42.94,96.62-97.15-151.12-150.3-96.62,97.15Zm107.65-.29l-10.73,10.79-10.8-10.74,10.73-10.79,10.8,10.74Z"/>
+  <rect class="cls-1" x="337.29" y="644.38" width="137.02" height="60.9" transform="translate(-358.83 486.67) rotate(-45.16)"/>
+  <rect class="cls-1" x="391.26" y="698.05" width="137.02" height="60.9" transform="translate(-380.98 540.76) rotate(-45.16)"/>
+  <rect class="cls-1" x="445.23" y="751.74" width="137.02" height="60.89" transform="translate(-403.13 594.86) rotate(-45.16)"/>
+  <rect class="cls-1" x="443.1" y="670.49" width="517.61" height="60.89" transform="translate(-290.05 704.32) rotate(-45.16)"/>
+  <rect class="cls-1" x="616.11" y="293.36" width="60.89" height="60.9" transform="translate(-38.97 553.89) rotate(-45.16)"/>
+  <polygon class="cls-1" points="699.16 333.18 796.3 429.8 581.59 645.69 592.38 656.42 753.42 494.51 796.6 537.45 592.62 742.54 441.5 592.24 484.44 549.07 538.41 602.75 549.15 591.95 495.18 538.27 538.12 495.1 592.09 548.78 602.83 537.98 548.86 484.3 591.8 441.12 645.77 494.8 656.5 484.01 602.53 430.33 645.48 387.15 699.45 440.83 710.19 430.04 656.21 376.36 699.16 333.18"/>
+  <rect class="cls-1" x="778.52" y="454.9" width="60.89" height="60.89" transform="translate(-105.62 716.67) rotate(-45.16)"/>
+  <polygon class="cls-1" points="538.99 173.89 636.14 270.51 421.43 486.4 475.4 540.07 432.46 583.25 281.34 432.95 324.28 389.77 378.25 443.46 442.67 378.69 431.87 367.95 378.19 421.92 335.02 378.98 431.64 281.83 485.61 335.51 550.03 270.75 539.23 260.01 485.55 313.98 442.37 271.04 538.99 173.89"/>
+  <rect class="cls-1" x="455.57" y="455.77" width="60.89" height="60.89" transform="translate(-201.46 487.95) rotate(-45.16)"/>
+  <rect class="cls-1" x="509.25" y="401.8" width="60.9" height="60.89" transform="translate(-147.36 510.1) rotate(-45.16)"/>
+  <rect class="cls-1" x="562.43" y="347.34" width="60.9" height="60.89" transform="translate(-93.07 531.75) rotate(-45.16)"/>
+  <rect class="cls-2" x="265.83" y="265.83" width="548.35" height="548.35" transform="translate(537.92 -223.67) rotate(44.84)"/>
+</svg>
